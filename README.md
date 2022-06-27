@@ -6,6 +6,6 @@
 	|- 3_ITEM_LOCATION.xlsx
 	|- ...
 |- scripts: python code
-|- assert:
+|- assert: Python Regex pattern and database config
 |- TEMP_DBDesc.xlsx: Table's description for staging
 |- DWH_DBDesc.xlsx: Table's description for DWH
